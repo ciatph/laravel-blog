@@ -2,6 +2,8 @@
 
 A simple blog demo (with notes and comments) output using laravel from [Laracasts Laravel 5.4 tutorials](https://laracasts.com/series/laravel-from-scratch-2017).
 
+This demo has no user authentication and login.
+
 ## Tools and Plugins
 
 1. Composer
