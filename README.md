@@ -14,11 +14,10 @@ A simple blog demo (with notes and comments) output using laravel from [Laracast
 ## Usage
 
 1. Clone this repository into your local directory.
-2. Navigate to the cloned directory from the command line. Run Composer install.
+2. Navigate to the cloned directory from the command line. <br> Run Composer install.
 3. Open .env. See DB_DATABASE. Create a `blog` database in MySQL.
-4. Navigate via command prompt to the cloned directory. <br> Run `composer install`.
-5. Run `php artisan migrate`.
-6. Run this project on browser: `php artisan serve`. Open the resulting URL to a web browser.
+4. Run `php artisan migrate`.
+5. Run this project on browser: `php artisan serve`. Open the resulting URL to a web browser.
 
 <br>
 
